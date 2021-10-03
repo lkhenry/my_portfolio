@@ -1,6 +1,32 @@
 h1 {
   font-family: "Merriweather", serif;
+  font-size: 72px;
 }
 p {
   font-family: "Rubik", sans-serif;
+  font-weight: bold;
+}
+.hero {
+  background-color: #f9f7fe;
+  text-align: center;
+  padding: 160px 20px;
+}
+.hero p {
+  font-size: 36px;
+  margin: 0;
+}
+
+.hero h2 {
+  font-family: "Rubik", sans-serif;
+  font-size: 24px;
+  line-height: 2;
+}
+
+.btn-contact {
+  background: #6c63ff;
+  border-radius: 4px;
+  color: white;
+  font-size: 18px;
+  line-height: 27px;
+  padding: 12px 20px;
 }
