@@ -10,12 +10,14 @@ p {
   font-family: "Nunito", sans-serif;
   font-weight: bold;
 }
-.hero {
-  background-color: #ececec;
-  padding: 160px 200px;
-  display: grid;
-  text-align: center;
-  color: #142d4c;
+@media (min-width: 320px) {
+  .hero {
+    background-color: #ececec;
+    padding: 160px 200px;
+    display: grid;
+    text-align: center;
+    color: #142d4c;
+  }
 }
 .hero p {
   font-size: 18px;
