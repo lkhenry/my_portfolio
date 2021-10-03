@@ -52,3 +52,44 @@ i {
   margin: 0px 10px;
   font-size: 16px;
 }
+.puppies {
+  width: 225px;
+  height: 300px;
+  margin: 0 auto;
+}
+.maine {
+  width: 225px;
+  height: 300px;
+  margin: 0 auto;
+}
+.work {
+  width: 300px;
+  height: 300px;
+  margin: 0 auto;
+}
+.card {
+  min-height: 500px;
+  overflow: auto;
+  color: #142d4c;
+  background-color: #9fd3c7;
+}
+.card-title {
+  font-family: "Nunito", sans-serif;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: bold;
+  line-height: 33px;
+}
+.card-text {
+  font-family: "Nunito", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 30px;
+}
+.row {
+  margin: 50px;
+}
+.card-bodyLast {
+  margin: 20px;
+}
